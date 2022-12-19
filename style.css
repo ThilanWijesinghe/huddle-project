@@ -1,0 +1,25 @@
+.bg-pic {
+    background-image: url("resorces/bg-hero-mobile.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.button1 {
+    border-radius: 18px;
+}
+
+.get-btn {
+    background-color: #f359d7;
+    border-radius: 20px;
+    padding-left: 18px;
+    padding-right: 18px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+
+.bg {
+    height: 50px;
+}
